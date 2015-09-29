@@ -13,7 +13,6 @@ $(document).ready(function(){
     	
 		$('#main').css('width', $(window).height()/1.75 + 2);
     }
-
 });
 
 var DEBUG_CTRL = false;
